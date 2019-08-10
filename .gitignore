@@ -1,3 +1,6 @@
-.idea
+.idea/
 MyBatis_dome.iml
-out
+out/
+*.log
+.idea/workspace.xml
+MyBatis_dome.iml
